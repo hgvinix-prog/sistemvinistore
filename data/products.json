@@ -22,14 +22,14 @@
   {
     "id": "pnl-monite30d",
     "category": "IPHONE / IOS",
-    "name": "DRIP CLIENT (APK MOD)",
+    "name": "PAINEL MONITE",
     "price": 13000,
     "status": "online",
     "plan": "30 DIAS",
     "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/imgs/PNLMONITE.jpg",
     "buy_link": "https://pagamentovinistorexyz.vercel.app/"
   },
- {
+  {
     "id": "pnl-flourite1d",
     "category": "IPHONE / IOS",
     "name": "PAINEL FLUORITE",
@@ -96,7 +96,7 @@
     "price": 1500,
     "status": "online",
     "plan": "1 DIA",
-    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/VERSAROOT.jpg",
+    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/imgs/VERSAROOT.jpg",
     "buy_link": "https://pagamentovinistorexyz.vercel.app/"
   },
   {
@@ -106,7 +106,7 @@
     "price": 5000,
     "status": "online",
     "plan": "7 DIAS",
-    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/VERSAROOT.jpg",
+    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/imgs/VERSAROOT.jpg",
     "buy_link": "https://pagamentovinistorexyz.vercel.app/"
   },
   {
@@ -116,10 +116,9 @@
     "price": 10000,
     "status": "online",
     "plan": "30 DIAS",
-    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/VERSAROOT.jpg",
+    "banner": "https://raw.githubusercontent.com/hgvinix-prog/sistemvinistore/main/imgs/VERSAROOT.jpg",
     "buy_link": "https://pagamentovinistorexyz.vercel.app/"
   },
-  //FFH4X APK ABAIXO//
   {
     "id": "apk-h4x-1d",
     "category": "ANDROID",
